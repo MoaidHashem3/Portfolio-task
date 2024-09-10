@@ -1,0 +1,31 @@
+.about-container {
+    padding: 80px;
+    background-color: #1c1c1e; 
+    color: #f8f9fa;
+  }
+  
+  .about-title h1 {
+    font-size: 4rem;
+    color: #f8f9fa; 
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .about-card {
+    background-color: #333333; 
+    border: none;
+    padding: 20px;
+  }
+  
+  .about-card p {
+    font-size: 1.2rem; 
+    line-height: 1.8;
+    color: #dcdcdc; 
+  }
+  
+  .about-container .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  

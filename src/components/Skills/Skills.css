@@ -1,0 +1,39 @@
+.skills-container {
+    background-color: #333333; 
+    color: #f8f9fa; 
+    padding: 50px 0;
+    width: 100vw; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .skills-section {
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 2.5rem;
+    color: #f8f9fa;
+  }
+  
+  .skill-name h5 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #f8f9fa;
+  }
+  
+  .progress-bar-custom {
+    background-color: #040319; 
+    border-radius: 25px;
+    width: 30vw;
+    height: 5vh;
+  }
+  
+  .progress-bar-custom .progress-bar {
+    background-color: #0d6efd; 
+    color: #fff; 
+    border-radius: 25px;
+
+  }
+  
